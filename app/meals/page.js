@@ -9,7 +9,7 @@ import { getMeals } from "@/lib/meals";
 
 export const metadata = {
   title: 'All Meals',
-  description: 'Browse the delicious meals shared by our vibrant community.',
+  description: 'Browse the delicious meals shared by our vibrant and lovely community.',
 };
 
 async function Meals() {
